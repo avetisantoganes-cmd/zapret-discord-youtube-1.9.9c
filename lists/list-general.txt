@@ -47,3 +47,10 @@ betterttv.net
 7tv.io
 localizeapi.com
 klipy.com
+edge-term4.geode-sdk.org.com
+edge-term4-fra4.geode-sdk.org.com
+games.geode-sdk.org.com
+titanium.geode-sdk.org.com
+edge-term4.geode-sdk.org.com
+edge-term4-fra4.geode-sdk.org.com
+games.geode-sdk.org.com
